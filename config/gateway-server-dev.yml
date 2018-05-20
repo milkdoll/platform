@@ -1,7 +1,7 @@
 test2: cccc11
 common:
   filter:
-    static-resources: "jpg,jsp,png,ico,jpeg,gif,bmp,html"
+    static-resources: html
     public-urls: 
     - /auth/api/auth/logout
     - /auth/api/auth/logout
