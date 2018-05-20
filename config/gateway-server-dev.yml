@@ -1,7 +1,7 @@
 test2: cccc11
 common:
   filter:
-    static-resources: html
+    static-resources: 'html'
     public-urls: 
     - /auth/api/auth/logout
     - /auth/api/auth/logout
