@@ -1,1 +1,8 @@
 test2: cccc11
+common:
+  filter:
+    static-resources: .jsp
+    public-url-list:
+    - /login
+    - /logout
+    - /index
