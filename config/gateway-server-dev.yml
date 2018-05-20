@@ -2,4 +2,4 @@ test2: cccc11we
 common:
   filter:
     static-resources: jpg,png,html,js,css,jpeg,pdf,ico,gif,bmp,jsp
-    public-urls: /auth/api/auth/login,/auth/api/auth/logout
+    public-urls: /auth/login,/auth/logout
