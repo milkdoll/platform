@@ -1,2 +1,4 @@
 test2: cccc11we
-publicUrls: /auth/api/auth/login
+common:
+  filter:
+    publicUrls: /auth/api/auth/login,/auth/api/auth/logout
