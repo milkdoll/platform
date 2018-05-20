@@ -1,4 +1,2 @@
 test2: cccc11we
-publicUrls: 
-- "/auth/api/auth/login"
-- "/auth/api/auth/logout"
+publicUrls: /auth/api/auth/login
