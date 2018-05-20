@@ -1,4 +1,4 @@
 test2: cccc11
-public-urls: 
+publicUrls: 
 - /auth/api/auth/login
 - /auth/api/auth/logout
